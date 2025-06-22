@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraganand198&label=Profile%20views&color=0e75b6&style=flat" alt="anuraganand198" /> </p>
 
-- 🌱 I’m currently learning **Django, React
+- 🌱 I’m currently learning **Express.js, React
 
 - 📫 How to reach me **7272nishantsingh@gmail.com**
 
